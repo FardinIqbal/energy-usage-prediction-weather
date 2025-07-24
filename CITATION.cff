@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Quantifying Residential Energy Demand via Weather‑Driven Statistical Learning"
+authors:
+  - family-names: Iqbal
+    given-names: Fardin
+date-released: 2025-04-23
+version: "1.0.0"
+doi: ""
+url: "https://github.com/FardinIqbal/energy-usage-prediction-weather"
+repository-code: "https://github.com/FardinIqbal/energy-usage-prediction-weather"
+license: MIT
+type: software
