@@ -147,7 +147,7 @@ Generated artefacts will reproduce under `results/`.
 
 ## Citation
 
-Iqbal, F. (2025). *Quantifying Residential Energy Demand via Weather‑Driven Statistical Learning*. GitHub repository: [https://github.com/your‑handle/energy-usage-prediction-weather](https://github.com/your‑handle/energy-usage-prediction-weather)
+Iqbal, F. (2025). *Quantifying Residential Energy Demand via Weather‑Driven Statistical Learning*. GitHub repository: [https://github.com/FardinIqbal/energy-usage-prediction-weather](https://github.com/FardinIqbal/energy-usage-prediction-weather)
 
 ---
 
